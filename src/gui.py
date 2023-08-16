@@ -433,7 +433,7 @@ class Dispatcher:
 
         self.main_icon = PhotoImage(
             master=self.root,
-            file='./images/airport.png',
+            file='./src/images/airport.png',
         )
         self.root.iconphoto(False, self.main_icon)
 

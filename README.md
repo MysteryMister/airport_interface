@@ -15,10 +15,19 @@
 #### GUI
 Рассмотрим несколько сценариев.
 1. Запуск приложения, главное окно.
+![1](https://github.com/MysteryMister/airport_interface/assets/24231731/824c3011-34ad-457f-b1a4-6dedcedc04e2)
+
 2. Добавление рейсов в расписание.
+![2](https://github.com/MysteryMister/airport_interface/assets/24231731/af6abf6f-744c-4a7f-93d9-dad562a8a2ea)
+
 3. Добавление новых типов самолетов.
+![3](https://github.com/MysteryMister/airport_interface/assets/24231731/68b2e0fb-470b-444e-8d16-817452557cb0)
+
 4. Программа в процессе моделирования.
+![4](https://github.com/MysteryMister/airport_interface/assets/24231731/497368d1-6c8f-4930-93f4-c911869a3842)
+
 5. Конец моделирования.
+![5](https://github.com/MysteryMister/airport_interface/assets/24231731/47be55d6-bd15-41e1-849e-5e1807594f93)
 
 ### Используемые библиотеки
 1. **tkinter** - графический интерфейс приложения;
